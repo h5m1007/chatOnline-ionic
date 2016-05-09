@@ -1,0 +1,31 @@
+{
+	"results": [
+		{
+			"user": {
+				"gender": "female",
+				"name": {
+					"title": "miss",
+					"first": "sophie",
+
+				},
+				"location": {
+					"street": "1424 sunset st",
+					"city": "bendigo",
+					"state": "queensland",
+					"zip": 59698
+				},
+				"email": "sophie.caldwell@example.com",
+				"phone": "07-2163-0693",
+				"cell": "0452-513-669",
+				"picture": {
+					"large": "https://randomuser.me/api/portraits/women/9.jpg",
+                    "medium": "https://randomuser.me/api/portraits/med/women/9.jpg",
+                    "thumbnail": "https://randomuser.me/api/portraits/thumb/women/9.jpg"
+				}
+			}
+		}
+	],
+	"nationality": "AU",
+	"seed": "42aee4c5aabcf24900",
+	"version": "0.7"
+}

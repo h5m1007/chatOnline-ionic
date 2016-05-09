@@ -1,0 +1,50 @@
+{
+	"messages": [{
+		"id": 0,
+		"name": "李明",
+		"pic": "img/adam.jpg",
+		"lastMessage": {
+			"originalTime": "2016-04-12 15:34:55",
+			"time": "",
+			"timeFrome1970": 0,
+			"content": "你在干嘛子！",
+			"isFromeMe": false
+		},
+		"noReadMessages": 2,
+		"showHints": true,
+		"isTop": 0,
+		"message": [{
+			"isFromeMe": false,
+			"content": "Fuck!",
+			"time": "2016-04-12 18:30:57"
+		},{
+			"isFromeMe": false,
+			"content": "Fuck!",
+			"time": "2016-05-14 08:15:30"
+		},{
+			"isFromeMe": true,
+			"content": "Fuck!",
+			"time": "2016-04-15 10:16:10"
+		},{
+			"isFromeMe": false,
+			"content": "Fuck!",
+			"time": "2016-04-15 10:16:10"
+		},{
+			"isFromeMe": true,
+			"content": "Fuck!",
+			"time": "2016-05-14 08:15:30"
+		},{
+			"isFromeMe": true,
+			"content": "Fuck!",
+			"time": "2016-05-14 08:15:30"
+		},{
+			"isFromeMe": false,
+			"content": "Fuck!",
+			"time": "2016-04-12 18:30:57"
+		},{
+			"isFromeMe": false,
+			"content": "Fuck!",
+			"time": "2016-05-14 08:15:30"
+		}]
+	}]
+}
